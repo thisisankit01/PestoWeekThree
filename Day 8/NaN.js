@@ -21,4 +21,5 @@ console.log(c===c);
 console.log([1,2,NaN,4].indexOf(NaN)); //finding the index of NaN.
 //its -1.
 
-console.log([1,2,NaN,4].indexOf(2));
+console.log([1,2,NaN,4].indexOf(2)); //finding whats in index 2.
+//output: NaN
