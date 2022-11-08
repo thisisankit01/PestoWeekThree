@@ -2,8 +2,7 @@
   "name": "pestoweekthree",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
-  "main": "memoize.js",
+  "main": "objects.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,13 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/thisisankit01/PestoWeekThree.git"
   },
-  "author": "Ankit Pandey",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/thisisankit01/PestoWeekThree/issues"
   },
-  "homepage": "https://github.com/thisisankit01/PestoWeekThree#readme",
-  "dependencies": {
-    "lodash.memoize": "^4.1.2"
-  }
+  "homepage": "https://github.com/thisisankit01/PestoWeekThree#readme"
 }
